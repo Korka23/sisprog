@@ -72,3 +72,40 @@
    72  git history
    73  gistory
    74  history
+   75  git status
+   76  D:/sisprog
+   77  git status
+   78  D:/sisprog
+   79  git init
+   80  cd D:/sisprog
+   81  git status
+   82  git add.
+   83  git add .
+   84  git commit -m "history"
+   85  git pull
+   86  git push
+   87  git pull
+   88  cd D:/sisprog
+   89  git status
+   90  git add .
+   91  git commit -m "comment"
+   92  git push
+   93  stage
+   94  git stage main.cpp
+   95  git status
+   96  git pull
+   97  historu
+   98  history
+   99  git log
+  100  git reset --soft HEAD~1
+  101  git log
+  102  git push
+  103  get status
+  104  git status
+  105  git add .
+  106  git push
+  107  git pull
+  108  git push
+  109  git history
+  110  history
+
