@@ -7,7 +7,7 @@ void print_fio()
 int main()
 {
 	
-	print_fio();
+	print_fio();//coomment
 	system("pause");
 	return 0;
 }
