@@ -1,0 +1,74 @@
+ 1  git config --global user.name "Korkin Aydyn"
+    2  git config --global user.email "aydynkorkin1@gmail.com"
+    3  git config
+    4  git config -list
+    5  git config --list
+    6
+    7  git log --oneline --decorate --graph --all
+    8  git log --oneline --decorate --graph --all "alias"
+    9  git help log
+   10  git init
+   11  git help init
+   12  git config --global core.editor "nano"
+   13  cd D:/sisprog
+   14  get init
+   15  get init
+   16  git status
+   17  cd D:/Git/.git
+   18  git status
+   19  D:/sisprog
+   20  cd D:/sisprog
+   21  get init
+   22  get init
+   23  cd D:/sisprog
+   24  get init
+   25  get help init
+   26  D:/asdasd
+   27  D:/F10
+   28  get init
+   29  git status
+   30  D:/Git/.git
+   31  cd D:/Git/.git
+   32  get status
+   33  get
+   34  get help
+   35  git status
+   36  cd D:/sisprog
+   37  git init
+   38  git status
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "first commit"
+   43  git status
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "2тв commit"
+   48  git remote add origin https://github.com/Korka23/sisprog.git
+   49  git branch -M main
+   50  git push -u origin main
+   51  6586586410a
+   52  git clone
+   53  git status
+   54  git add .
+   55  git commit -m "second commit"
+   56  git stage main.cpp
+   57  git pull
+   58  git push
+   59  git pull
+   60  git stage
+   61  git stage main.cpp
+   62  git push
+   63  git log
+   64  git reset --hard
+   65  git log
+   66  git reset --hard HEAD^I
+   67  git log
+   68  git status
+   69  git reset --soft HEAD~1
+   70  git log
+   71  D:/sisprog
+   72  git history
+   73  gistory
+   74  history
